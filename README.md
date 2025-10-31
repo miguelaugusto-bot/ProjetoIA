@@ -23,8 +23,8 @@ Responsabilidade.: Avaliação & Gráficos / Modelagem de Dados
     Link para a apresentação do projeto de IA:
     - 
 
-## Descriação:
-    A proposta do projeto é o desenvolvimento de uma pequena Inteligência Artificial capaz de auxiliar pequenas e grandes empresas em duvidas relacionadas a produtos de hospedagem, email e dominios, sanando as principais duvidas antes de qualquer atendimento helpdesk, como se fosse um pré atendimento para estabelecer possiveis soluções sem a necessidade de um atendente.
+## Descrição:
+A proposta do projeto é o desenvolvimento de uma pequena Inteligência Artificial capaz de auxiliar pequenas e grandes empresas em duvidas relacionadas a produtos de hospedagem, email e dominios, sanando as principais duvidas antes de qualquer atendimento helpdesk, como se fosse um pré atendimento para estabelecer possiveis soluções sem a necessidade de um atendente.
 
 ## Requisitos:
 Para o projeto é necessario efetuar a instalação:
