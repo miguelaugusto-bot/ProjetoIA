@@ -28,8 +28,8 @@ A proposta do projeto é o desenvolvimento de uma pequena Inteligência Artifici
 
 ## Requisitos:
 Para o projeto é necessario efetuar a instalação:
-**Versão do Python:** Requer Python 3.13.x ou superior.
-**Ambiente Virtual:** (Opcional, mas recomendado como o google colab)
+**Versão do Python:** Requer Python 3.13.x ou superior.  
+**Ambiente Virtual:** (Opcional, mas recomendado como o google colab)  
 
 ## Instalar Dependências:
 ```bash
