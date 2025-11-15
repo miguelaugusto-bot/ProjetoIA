@@ -1,9 +1,24 @@
 perguntas,respostas
 oi,Oi! Tudo bem?
-olá,Oi! Tudo bem?
-hello,Oi! Tudo bem?
-hi,Oi! Tudo bem?
+ola,Oi! Tudo bem?
 eai,Oi! Tudo bem?
+bom dia,Bom dia! Tudo bem?
+boa tarde,Boa tarde! Tudo bem?
+boa noite,Boa noite! Tudo bem?
 tudo bem,Que bom! Como posso te ajudar?
+estou bem,Que bom! Como posso te ajudar?
+tudo ótimo,Que bom! Como posso te ajudar?
+não estou bem,Sinto muito em ouvir isso. Como posso ajudar?
+não estou bem,Entendo. Como posso ajudar?
+preciso de ajuda, Claro! Estou aqui para ajudar. O que você precisa?
+ajuda, Claro! Estou aqui para ajudar. O que você precisa?
+socorro, Claro! Estou aqui para ajudar. O que você precisa?
 qual é o seu nome,Eu sou um chatbot feito em Python!
+o que você é,Eu sou um chatbot feito em Python!
+quem é você,Eu sou um chatbot feito em Python!
 tchau,Até logo! Volte sempre!
+adeus,Até logo! Volte sempre!
+vlw,Até logo! Volte sempre!
+falou,Até logo! Volte sempre!
+obrigado,De nada! Se precisar de mais alguma coisa é só chamar.
+obrigada,De nada! Se precisar de mais alguma coisa é só chamar.
