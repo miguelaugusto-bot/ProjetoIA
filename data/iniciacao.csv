@@ -1,5 +1,9 @@
 perguntas,respostas
-oi ola hello,Oi! Tudo bem?
+oi,Oi! Tudo bem?
+olá,Oi! Tudo bem?
+hello,Oi! Tudo bem?
+hi,Oi! Tudo bem?
+eai,Oi! Tudo bem?
 tudo bem,Que bom! Como posso te ajudar?
 qual é o seu nome,Eu sou um chatbot feito em Python!
 tchau,Até logo! Volte sempre!
