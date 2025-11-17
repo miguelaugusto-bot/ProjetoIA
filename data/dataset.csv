@@ -1,0 +1,103 @@
+perguntas,respostas
+oi,Oi! Tudo bem?
+ola,Oi! Tudo bem?
+eai,Oi! Tudo bem?
+opa,Oi! Tudo bem?
+yep,Oi! Tudo bem?
+hi,Oi! Tudo bem?
+hello,Oi! Tudo bem?
+bom dia,Oi! Tudo bem?
+boa tarde,Oi! Tudo bem?
+boa noite,Oi! Tudo bem?
+tudo bem,Que bom! Como posso te ajudar?
+estou bem,Que bom! Como posso te ajudar?
+tudo ótimo,Que bom! Como posso te ajudar?
+bem,Que bom! Como posso te ajudar?
+estou ótimo,Que bom! Como posso te ajudar?
+sim tudo bem,Que bom! Como posso te ajudar?
+tudo tranquilo,Que bom! Como posso te ajudar?
+estou legal,Que bom! Como posso te ajudar?
+vai tudo bem,Que bom! Como posso te ajudar?
+correu tudo bem,Que bom! Como posso te ajudar?
+melhor agora,Que bom! Como posso te ajudar?
+não estou bem,Sinto muito em ouvir isso. Como posso ajudar?
+estou com problemas,Sinto muito em ouvir isso. Como posso ajudar?
+estou triste,Sinto muito em ouvir isso. Como posso ajudar?
+me ajude,Sinto muito em ouvir isso. Como posso ajudar?
+estou triste,Sinto muito em ouvir isso. Como posso ajudar?
+to mal,Sinto muito em ouvir isso. Como posso ajudar?
+estou mal,Sinto muito em ouvir isso. Como posso ajudar?
+hoje o dia está ruim,Sinto muito em ouvir isso. Como posso ajudar?
+as coisas não estão boas,Sinto muito em ouvir isso. Como posso ajudar?
+estou com um problema,Sinto muito em ouvir isso. Como posso ajudar?
+não muito bem,Sinto muito em ouvir isso. Como posso ajudar?
+hoje o dia está difícil,Sinto muito em ouvir isso. Como posso ajudar?
+hoje o dia esta complicado,Sinto muito em ouvir isso. Como posso ajudar?
+hoje o dia não tá legal,Sinto muito em ouvir isso. Como posso ajudar?
+preciso de ajuda,Claro! Estou aqui para ajudar. O que você precisa?
+ajuda,Claro! Estou aqui para ajudar. O que você precisa?
+socorro,Claro! Estou aqui para ajudar. O que você precisa?
+estou perdido,Claro! Estou aqui para ajudar. O que você precisa?
+estou com uma duvida,Claro! Estou aqui para ajudar. O que você precisa?
+preciso de um suporte,Claro! Estou aqui para ajudar. O que você precisa?
+pode me dar uma mão?,Claro! Estou aqui para ajudar. O que você precisa?
+me ajude por favor,Claro! Estou aqui para ajudar. O que você precisa?
+preciso de uma ajuda,Claro! Estou aqui para ajudar. O que você precisa?
+como voce se chama,Eu sou um chatbot feito em Python!
+qual é o seu nome,Eu sou um chatbot feito em Python!
+o que você é,Eu sou um chatbot feito em Python!
+quem é você,Eu sou um chatbot feito em Python!
+me diga seu nome,Eu sou um chatbot feito em Python!
+obrigado,De nada! Se precisar de mais alguma coisa é só chamar.
+obrigada,De nada! Se precisar de mais alguma coisa é só chamar.
+muito obrigado,De nada! Se precisar de mais alguma coisa é só chamar.
+muito obrigada,De nada! Se precisar de mais alguma coisa é só chamar.
+obg,De nada! Se precisar de mais alguma coisa é só chamar.
+vlw,De nada! Se precisar de mais alguma coisa é só chamar.
+valeu pela ajuda,De nada! Se precisar de mais alguma coisa é só chamar.
+agradecido,De nada! Se precisar de mais alguma coisa é só chamar.
+agradecida,De nada! Se precisar de mais alguma coisa é só chamar.
+show valeu,De nada! Se precisar de mais alguma coisa é só chamar.
+tchau,Até logo! Volte sempre!
+adeus,Até logo! Volte sempre!
+falou,Até logo! Volte sempre!
+flw,Até logo! Volte sempre!
+otima dia,Até logo! Volte sempre!
+otima tarde,Até logo! Volte sempre!
+otima noite,Até logo! Volte sempre!
+tenha um otimo dia,Até logo! Volte sempre!
+tenha uma otima tarde,Até logo! Volte sempre!
+tenha uma otima noite,Até logo! Volte sempre!
+até mais,Até logo! Volte sempre!
+meu site apresenta não seguro,"Para o caso do site não apresentar que esta seguro, indico seguir essa wiki: https://www.locaweb.com.br/ajuda/wiki/site-nao-seguro-como-resolver/"
+como liberar meu dominio na registro.br,Para a liberação de dominio na registro br: https://registro.br/dominio/processo-de-liberacao/
+Como configuro meu email locaweb no outlook,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/
+Meu site está fora do ar. Quais são as causas mais comuns e como posso resolver?,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema/
+Como faço para acessar ou subir arquivos por FTP (FileZilla) na Locaweb?,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
+Meu site está lento. Como otimizar o desempenho na hospedagem?,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
+O que significa erro 500 Internal Server Error e como corrigir?,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
+Como devo criar as entradas de DNS na Zona de DNS da Locaweb para subdomínios?,Como configurar subdominio na zona dns: https://www.locaweb.com.br/ajuda/wiki/como-criar-as-entradas-de-dns-na-zona-de-dns-hospedagem-de-sites-2
+"O que fazer quando o acesso ao site apresenta a mensagem ""o servidor DNS não está respondendo""?",Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
+Como instalar o WordPress na Hospedagem Locaweb?,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
+O que é e como emitir o certificado Let's Encrypt (SSL) para meu site?,Emitir o SSL Let´s Encrypt: https://www.locaweb.com.br/ajuda/wiki/como-gerar-o-certificado-lets-encrypt-via-ssh-hospedagem-de-sites/
+Como restaurar um backup da minha Hospedagem de Sites Locaweb?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-fazer-restore-e-backup-de-banco-de-dados-ajuda-locaweb/
+O site caiu por excesso de tráfego. Como verificar e solucionar?,Sobre o erro 503: https://www.locaweb.com.br/ajuda/wiki/erro-503/
+Como alterar os servidores DNS de um domínio registrado no Registro.br para apontar para a Locaweb?,Como alterar as entradas DNS: https://www.locaweb.com.br/ajuda/wiki/como-alterar-os-dns-dos-dominios-registrados-na-locaweb-registro-de-dominio/
+Qual a diferença entre registrar um domínio na Locaweb e no Registro.br?,Sobre registrar um domínio: https://www.locaweb.com.br/ajuda/wiki/registro-de-dominio/
+"O que significa quando meu domínio está ""congelado"" ou em ""redemption""?",Status sobre o domínio: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
+Meu domínio expirou (perdi o domínio). O que posso fazer para recuperá-lo?,Domínio expirado: https://registro.br/dominio/processo-de-liberacao/
+O que preciso saber sobre a propagação de DNS após a alteração dos servidores?,Propagação DNS e alteração do servidor: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-a-propagacao-de-dns-registro-de-dominio/
+Como transferir o registro de domínio nacional do Registro.br para a Locaweb?,Transferencia de dominio: https://www.locaweb.com.br/ajuda/wiki/como-transferir-o-registro-de-dominio-nacional-registro-de-dominio/
+Meu domínio está bloqueado para transferência; como posso liberar?,Como efetuar a liberação de dominio: https://registro.br/ajuda/tutoriais-administrativos
+Não consigo alterar as informações de Titularidade do meu domínio no Registro.br. Por quê?,Titularidade sobre o domino: https://registro.br/ajuda/tutoriais-administrativos/
+Como alterar o Provedor de Serviços (Locaweb) na página do Registro.br?,Como mudar o provedor do dominio: https://registro.br/ajuda/tutoriais-administrativos/#alterar-provedor-de-servicos
+Não estou conseguindo enviar ou receber e-mails. Quais são as possíveis causas?,Indicado a consultar a wiki: https://www.locaweb.com.br/ajuda/wiki/nao-estou-conseguindo-enviar-e-receber/
+Como configurar os registros MX na zona de DNS para o e-mail Locaweb funcionar corretamente?,Como configurar as entradas MX: https://www.locaweb.com.br/ajuda/wiki/como-configurar-o-mx-revenda-locaweb/
+O que fazer se minha caixa de e-mail está cheia (espaço esgotado)?,Caixa postal cheia: https://www.locaweb.com.br/ajuda/wiki/caixa-postal-cheia-email-go/
+Como desbloquear minhas mensagens que foram rejeitadas/bloqueadas (erro 550)?,Erro 550: https://www.locaweb.com.br/ajuda/wiki/erros-de-envios-google-workspace/
+Meu e-mail está caindo na caixa de SPAM do destinatário. O que devo verificar (SPF/DKIM)?,Regras do SPF: https://www.locaweb.com.br/ajuda/wiki/spf/
+Qual a porta (IMAP/POP3/SMTP) e as informações corretas para configurar o e-mail no Outlook ou outro cliente?,Como configurar o email locaweb em outro client: https://www.locaweb.com.br/ajuda/wiki/como-configurar-o-smtp-no-outlook-android-smtp-locaweb/
+Como verificar meu domínio pelo painel Locaweb ou no Registro.br para o serviço de e-mail?,Verificar dominio: https://www.locaweb.com.br/ajuda/wiki/como-verificar-seu-dominio-e-fazer-os-apontamentos-dns-do-email-go-no-registro-br/
+Como resolver o problema de cache ao acessar o Webmail da Locaweb?,Problemas para acessar o webmail: https://www.locaweb.com.br/ajuda/wiki/como-resolver-problemas-de-acesso-ao-webmail-email-locaweb/
+O que fazer se o código de autenticação de dois fatores não chega no meu e-mail?,2FA do e-mail locaweb: https://www.locaweb.com.br/ajuda/wiki/autenticacao-de-duas-etapas-2fa-faq/
+Minha conta de e-mail está bloqueada devido a limitações de envio ou SPAM. Como resolver?,Limites de envio: https://www.locaweb.com.br/ajuda/wiki/veja-quais-sao-as-limitacoes-de-1-000-envios-smtp-locaweb/
