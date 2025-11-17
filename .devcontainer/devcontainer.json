@@ -1,0 +1,14 @@
+{
+  "name": "Python 3.13 Project",
+  
+  // Imagem base que suporta o Dev Containers e Features.
+  // Você pode usar uma imagem universal como esta:
+  "image": "mcr.microsoft.com/devcontainers/universal:latest",
+  
+  // Define o recurso Python com a versão desejada
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "3.13" // Isso deve instalar a versão mais recente 3.13 (ex: 3.13.1)
+        }
+    }
+}
