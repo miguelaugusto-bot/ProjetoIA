@@ -1,6 +1,7 @@
 perguntas,respostas
 oi,Oi! Tudo bem?
 ola,Oi! Tudo bem?
+olá,Oi! Tudo bem?
 eai,Oi! Tudo bem?
 opa,Oi! Tudo bem?
 yep,Oi! Tudo bem?
@@ -9,6 +10,9 @@ hello,Oi! Tudo bem?
 bom dia,Oi! Tudo bem?
 boa tarde,Oi! Tudo bem?
 boa noite,Oi! Tudo bem?
+epa,Oi! Tudo bem?
+tudo bem?,Oi! Tudo bem?
+
 tudo bem,Que bom! Como posso te ajudar?
 estou bem,Que bom! Como posso te ajudar?
 tudo ótimo,Que bom! Como posso te ajudar?
@@ -20,6 +24,7 @@ estou legal,Que bom! Como posso te ajudar?
 vai tudo bem,Que bom! Como posso te ajudar?
 correu tudo bem,Que bom! Como posso te ajudar?
 melhor agora,Que bom! Como posso te ajudar?
+
 não estou bem,Sinto muito em ouvir isso. Como posso ajudar?
 estou com problemas,Sinto muito em ouvir isso. Como posso ajudar?
 estou triste,Sinto muito em ouvir isso. Como posso ajudar?
@@ -34,20 +39,23 @@ não muito bem,Sinto muito em ouvir isso. Como posso ajudar?
 hoje o dia está difícil,Sinto muito em ouvir isso. Como posso ajudar?
 hoje o dia esta complicado,Sinto muito em ouvir isso. Como posso ajudar?
 hoje o dia não tá legal,Sinto muito em ouvir isso. Como posso ajudar?
-preciso de ajuda,Claro! Estou aqui para ajudar. O que você precisa?
-ajuda,Claro! Estou aqui para ajudar. O que você precisa?
-socorro,Claro! Estou aqui para ajudar. O que você precisa?
-estou perdido,Claro! Estou aqui para ajudar. O que você precisa?
-estou com uma duvida,Claro! Estou aqui para ajudar. O que você precisa?
-preciso de um suporte,Claro! Estou aqui para ajudar. O que você precisa?
-pode me dar uma mão?,Claro! Estou aqui para ajudar. O que você precisa?
-me ajude por favor,Claro! Estou aqui para ajudar. O que você precisa?
-preciso de uma ajuda,Claro! Estou aqui para ajudar. O que você precisa?
+
+preciso de ajuda, Claro! Estou aqui para ajudar. O que você precisa?
+ajuda, Claro! Estou aqui para ajudar. O que você precisa?
+socorro, Claro! Estou aqui para ajudar. O que você precisa?
+estou perdido, Claro! Estou aqui para ajudar. O que você precisa?
+estou com uma duvida, Claro! Estou aqui para ajudar. O que você precisa?
+preciso de um suporte, Claro! Estou aqui para ajudar. O que você precisa?
+pode me dar uma mão?, Claro! Estou aqui para ajudar. O que você precisa?
+me ajude por favor, Claro! Estou aqui para ajudar. O que você precisa?
+preciso de uma ajuda, Claro! Estou aqui para ajudar. O que você precisa?
+
 como voce se chama,Eu sou um chatbot feito em Python!
 qual é o seu nome,Eu sou um chatbot feito em Python!
 o que você é,Eu sou um chatbot feito em Python!
 quem é você,Eu sou um chatbot feito em Python!
 me diga seu nome,Eu sou um chatbot feito em Python!
+
 obrigado,De nada! Se precisar de mais alguma coisa é só chamar.
 obrigada,De nada! Se precisar de mais alguma coisa é só chamar.
 muito obrigado,De nada! Se precisar de mais alguma coisa é só chamar.
@@ -58,6 +66,7 @@ valeu pela ajuda,De nada! Se precisar de mais alguma coisa é só chamar.
 agradecido,De nada! Se precisar de mais alguma coisa é só chamar.
 agradecida,De nada! Se precisar de mais alguma coisa é só chamar.
 show valeu,De nada! Se precisar de mais alguma coisa é só chamar.
+
 tchau,Até logo! Volte sempre!
 adeus,Até logo! Volte sempre!
 falou,Até logo! Volte sempre!
@@ -69,6 +78,10 @@ tenha um otimo dia,Até logo! Volte sempre!
 tenha uma otima tarde,Até logo! Volte sempre!
 tenha uma otima noite,Até logo! Volte sempre!
 até mais,Até logo! Volte sempre!
+vlw,Até logo! Volte sempre!
+agradecido,Até logo! Volte sempre!
+agradecida,Até logo! Volte sempre!
+
 meu site apresenta não seguro,"Para o caso do site não apresentar que esta seguro, indico seguir essa wiki: https://www.locaweb.com.br/ajuda/wiki/site-nao-seguro-como-resolver/"
 como liberar meu dominio na registro.br,Para a liberação de dominio na registro br: https://registro.br/dominio/processo-de-liberacao/
 Como configuro meu email locaweb no outlook,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/
