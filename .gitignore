@@ -1,0 +1,19 @@
+# O arquivo do FastText (comprimido ou não)
+data/cc.pt.300.vec.gz
+*.vec
+*.vec.gz
+
+#Lixo do Python e Jupyter
+# Pastas de cache (não servem pra nada no git)
+__pycache__/
+*.pyc
+
+# Checkpoints do Jupyter (salvamentos automáticos)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+#Ambientes Virtuais
+# Se você criou um venv, ignore a pasta inteira
+.venv/
+venv/
+env/
