@@ -22,7 +22,6 @@ E aí,Oi! Tudo bem?
 Fala,Oi! Tudo bem?
 Alô,Oi! Tudo bem?
 Teste,Oi! Tudo bem?
-,
 tudo bem,Que bom! Como posso te ajudar?
 estou bem,Que bom! Como posso te ajudar?
 tudo ótimo,Que bom! Como posso te ajudar?
@@ -34,7 +33,6 @@ estou legal,Que bom! Como posso te ajudar?
 vai tudo bem,Que bom! Como posso te ajudar?
 correu tudo bem,Que bom! Como posso te ajudar?
 melhor agora,Que bom! Como posso te ajudar?
-,
 não estou bem,Sinto muito em ouvir isso. Como posso ajudar?
 estou com problemas,Sinto muito em ouvir isso. Como posso ajudar?
 estou triste,Sinto muito em ouvir isso. Como posso ajudar?
@@ -49,7 +47,6 @@ não muito bem,Sinto muito em ouvir isso. Como posso ajudar?
 hoje o dia está difícil,Sinto muito em ouvir isso. Como posso ajudar?
 hoje o dia esta complicado,Sinto muito em ouvir isso. Como posso ajudar?
 hoje o dia não tá legal,Sinto muito em ouvir isso. Como posso ajudar?
-,
 preciso de ajuda,Claro! Estou aqui para ajudar. O que você precisa?
 ajuda,Claro! Estou aqui para ajudar. O que você precisa?
 socorro,Claro! Estou aqui para ajudar. O que você precisa?
@@ -59,7 +56,6 @@ preciso de um suporte,Claro! Estou aqui para ajudar. O que você precisa?
 pode me dar uma mão?,Claro! Estou aqui para ajudar. O que você precisa?
 me ajude por favor,Claro! Estou aqui para ajudar. O que você precisa?
 preciso de uma ajuda,Claro! Estou aqui para ajudar. O que você precisa?
-,
 como você se chama,Eu sou um chatbot feito em Python!
 Qual é o seu nome?,Eu sou um chatbot feito em Python!
 o que você é,Eu sou um chatbot feito em Python!
@@ -67,13 +63,12 @@ Quem é você?,Eu sou um chatbot feito em Python!
 me diga seu nome,Eu sou um chatbot feito em Python!
 Com quem estou falando?,Eu sou um chatbot feito em Python!
 Qual o nome do atendente?,Eu sou um chatbot feito em Python!
-"Por favor, se apresente.",Eu sou um chatbot feito em Python!
+Por favor se apresente,Eu sou um chatbot feito em Python!
 Como devo te chamar?,Eu sou um chatbot feito em Python!
 Você é um robô?,Eu sou um chatbot feito em Python!
 Estou falando com uma pessoa de verdade?,Eu sou um chatbot feito em Python!
 Você é humano ou máquina?,Eu sou um chatbot feito em Python!
 Você é uma inteligência artificial?,Eu sou um chatbot feito em Python!
-,
 obrigado,De nada! Se precisar de mais alguma coisa é só chamar.
 obrigada,De nada! Se precisar de mais alguma coisa é só chamar.
 muito obrigado,De nada! Se precisar de mais alguma coisa é só chamar.
@@ -84,7 +79,6 @@ valeu pela ajuda,De nada! Se precisar de mais alguma coisa é só chamar.
 agradecido,De nada! Se precisar de mais alguma coisa é só chamar.
 agradecida,De nada! Se precisar de mais alguma coisa é só chamar.
 show valeu,De nada! Se precisar de mais alguma coisa é só chamar.
-,
 tchau,Até logo! Volte sempre!
 adeus,Até logo! Volte sempre!
 falou,Até logo! Volte sempre!
@@ -99,7 +93,6 @@ até mais,Até logo! Volte sempre!
 vlw,Até logo! Volte sempre!
 agradecido,Até logo! Volte sempre!
 agradecida,Até logo! Volte sempre!
-,
 meu site apresenta não seguro,Para o caso do site estar apresentando insegurança indico seguir essa wiki: https://www.locaweb.com.br/ajuda/wiki/site-nao-seguro-como-resolver/
 por que meu site aparece como não seguro?,Para o caso do site estar apresentando insegurança indico seguir essa wiki: https://www.locaweb.com.br/ajuda/wiki/site-nao-seguro-como-resolver/
 aviso de site não seguro no navegador,Para o caso do site estar apresentando insegurança indico seguir essa wiki: https://www.locaweb.com.br/ajuda/wiki/site-nao-seguro-como-resolver/
@@ -116,7 +109,6 @@ o google chrome diz que a conexão com o meu site não é segura,Para o caso do 
 meu cliente estão recebendo um aviso de perigo ao acessar o site,Para o caso do site estar apresentando insegurança indico seguir essa wiki: https://www.locaweb.com.br/ajuda/wiki/site-nao-seguro-como-resolver/
 "aparece uma mensagem de ""sua conexão não é particular""",Para o caso do site estar apresentando insegurança indico seguir essa wiki: https://www.locaweb.com.br/ajuda/wiki/site-nao-seguro-como-resolver/
 o site diz que pode estar tentando roubar minhas informações,Para o caso do site estar apresentando insegurança indico seguir essa wiki: https://www.locaweb.com.br/ajuda/wiki/site-nao-seguro-como-resolver/
-,
 como liberar meu dominio na registro.br,Para a liberação ou problemas relacionado a dominio na registro br: https://registro.br/dominio/processo-de-liberacao/
 como faço a liberação de domínio no registro.br?,Para a liberação ou problemas relacionado a dominio na registro br: https://registro.br/dominio/processo-de-liberacao/
 quero liberar meu domínio no registro.br,Para a liberação ou problemas relacionado a dominio na registro br: https://registro.br/dominio/processo-de-liberacao/
@@ -133,7 +125,6 @@ como fazer a liberação de ID técnico/administrativo?,Para a liberação ou pr
 onde encontro o modelo de carta para liberação de domínio?,Para a liberação ou problemas relacionado a dominio na registro br: https://registro.br/dominio/processo-de-liberacao/
 processo administrativo de liberação de domínio,Para a liberação ou problemas relacionado a dominio na registro br: https://registro.br/dominio/processo-de-liberacao/
 erro de domínio vinculado a outro ticket ou ID,Para a liberação ou problemas relacionado a dominio na registro br: https://registro.br/dominio/processo-de-liberacao/
-,
 como configuro meu email locaweb no outlook?,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
 como faço para configurar meu e-mail Locaweb no Outlook?,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
 tutorial para usar e-mail no Outlook.,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
@@ -149,18 +140,17 @@ Quais as portas de entrada e saída para o Outlook?,Como configurar o email loca
 Configuração de servidor SMTP e IMAP no Outlook.,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
 Como configurar POP3 no Outlook?,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
 Qual o servidor de entrada da Locaweb para por no Outlook?,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
-"O Outlook pede servidor de entrada e saída, o que eu coloco?",Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
+O Outlook pede servidor de entrada e saída o que eu coloco?,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
 Configurar e-mail Locaweb no Outlook 365.,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
 Como configurar no Outlook 2016 ou 2019?,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
 Configuração para a versão nova do Outlook.,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
 Configurar email no Outlook do pacote Office.,Como configurar o email locaweb no outlook: https://www.locaweb.com.br/ajuda/wiki/configuracao-de-outlook-email-locaweb/ e também possui a opção: https://www.locaweb.com.br/ajuda/wiki/como-configurar-email-locaweb-no-office-365-email-locaweb
-,
 Meu site está fora do ar. Quais são as causas mais comuns e como posso resolver?,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
 Meu site caiu o que eu faço?,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
 O site não está carregando.,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
 Página fora do ar.,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
 Meu domínio parou de funcionar.,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
-"Não consigo acessar meu site, aparece erro.",Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
+Não consigo acessar meu site aparece erro.,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
 O servidor parou de responder.,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
 Problemas de conexão com o host.,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
 Minha hospedagem está offline.,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
@@ -174,12 +164,11 @@ Como descobrir o motivo do site estar offline?,Principais erros para o site esta
 Quais as causas para o site travar?,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
 Como diagnosticar site fora do ar?,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
 O problema é no meu site ou na hospedagem?,Principais erros para o site estar fora do ar: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-fora-do-ar-conheca-as-principais-causas-e-como-evitar-o-problema
-,
 Como faço para acessar ou subir arquivos por FTP (FileZilla) na Locaweb?,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Como configurar o FileZilla na Locaweb?,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Passo a passo para acessar o FTP pelo FileZilla.,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Dados para conexão no FileZilla.,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
-"Onde coloco o host, usuário e senha no FileZilla?",Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
+Onde coloco o host usuário e senha no FileZilla?,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Tutorial de FileZilla para Locaweb.,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Como faço para subir meu site para a hospedagem?,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Quero enviar os arquivos do meu site para o servidor.,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
@@ -187,7 +176,7 @@ Como publicar meu site usando FTP?,Como fazer acesso ao ftp locaweb: https://www
 Transferir arquivos do meu computador para a Locaweb.,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Colocar site no ar via FTP.,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Qual é o host de FTP da Locaweb?,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
-"Não consigo conectar no FTP, qual a porta correta?",Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
+Não consigo conectar no FTP qual a porta correta?,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Erro de conexão no FileZilla.,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Como descobrir meu usuário e senha de FTP?,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 O FileZilla não conecta no servidor.,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
@@ -195,7 +184,6 @@ Como acessar os arquivos do servidor remotamente?,Como fazer acesso ao ftp locaw
 Acesso FTP na revenda ou hospedagem.,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Como usar um cliente de FTP?,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
 Gerenciamento de arquivos via FTP.,Como fazer acesso ao ftp locaweb: https://www.locaweb.com.br/ajuda/wiki/como-acessar-o-ftp-atraves-do-filezilla-revenda-locaweb/
-,
 Como visualizar os dados ftp da hospedagem ?,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 Onde vejo os dados de acesso ao FTP?,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 Onde ficam as informações de FTP no painel?,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
@@ -203,16 +191,15 @@ Como visualizar meu login e host de FTP?,Para visualizar os dados ftp da sua hos
 Caminho para ver as configurações de FTP na hospedagem.,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 Onde encontro meus dados de conexão?,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 Qual é o endereço do meu servidor FTP?,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
-"Não sei qual é o meu usuário de FTP, como descobrir?",Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
+Não sei qual é o meu usuário de FTP como descobrir?,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 "Qual ""Host"" eu coloco no FileZilla?",Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 Preciso saber o nome do servidor para conectar.,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 Qual é o IP ou endereço para conexão FTP?,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 Quais dados eu uso para configurar o FileZilla?,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 O que eu coloco nos campos de conexão do programa de FTP?,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
-"Preciso dos dados para subir meu site, onde pego?",Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
+Preciso dos dados para subir meu site onde pego?,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 Dados para conectar via Dreamweaver ou FileZilla.,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
 Recuperar informações de acesso ao servidor de arquivos.,Para visualizar os dados ftp da sua hospedagem: https://www.locaweb.com.br/ajuda/wiki/como-ver-os-dados-de-acesso-ao-ftp-hospedagem-de-sites
-,
 Meu site está lento. Como otimizar o desempenho na hospedagem?,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
 Meu site demora muito para carregar.,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
 A página fica carregando infinitamente e não abre.,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
@@ -224,7 +211,7 @@ Quero acelerar o carregamento das minhas páginas.,Recomendo para o seu site: ht
 Como melhorar a performance do meu site?,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
 Dicas para otimizar o desempenho da hospedagem.,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
 O que fazer para diminuir o tempo de resposta do site?,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
-"Meu WordPress está muito lento, como resolver?",Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
+Meu WordPress está muito lento como resolver?,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
 Minha nota no Google PageSpeed está baixa.,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
 O banco de dados está demorando para responder.,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
 Problemas com TTFB (Time to First Byte) alto.,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
@@ -233,7 +220,6 @@ Por que meu site ficou lento de repente?,Recomendo para o seu site: https://www.
 É problema na hospedagem ou no meu código que deixa o site lento?,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
 O servidor está com latência alta?,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
 O que causa lentidão no site?,Recomendo para o seu site: https://www.locaweb.com.br/blog/temas/codigo-aberto/site-lento-o-que-fazer/
-,
 O que significa erro 500 Internal Server Error e como corrigir?,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
 O que significa o Erro 500?,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
 Meu site está dando Internal Server Error.,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
@@ -242,14 +228,13 @@ Como resolver o erro 500 na minha hospedagem?,Sobre o erro 500: https://www.loca
 O servidor retornou um erro 500.,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
 "O site diz ""O servidor encontrou um erro interno"".",Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
 "Mensagem de ""Internal Server Error"" ao acessar a página.",Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
-"Erro interno do servidor, como arrumar?",Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
+Erro interno do servidor como arrumar?,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
 O site parou e mostra uma mensagem de erro interno.,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
 Meu WordPress ficou com tela branca e erro 500.,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
 Atualizei um plugin e agora dá erro 500.,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
 Erro 500 após mexer no arquivo .htaccess.,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
 Problema de permissão de pastas causando erro 500.,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
 Erro no script PHP gerando código 500.,Sobre o erro 500: https://www.locaweb.com.br/ajuda/wiki/erro-500
-,
 Como devo criar as entradas de DNS na Zona de DNS da Locaweb para subdomínios?,Como configurar subdominio na zona dns: https://www.locaweb.com.br/ajuda/wiki/como-criar-as-entradas-de-dns-na-zona-de-dns-hospedagem-de-sites-2
 Como criar um subdomínio na Zona de DNS?,Como configurar subdominio na zona dns: https://www.locaweb.com.br/ajuda/wiki/como-criar-as-entradas-de-dns-na-zona-de-dns-hospedagem-de-sites-2
 Como adicionar um novo subdomínio no painel?,Como configurar subdominio na zona dns: https://www.locaweb.com.br/ajuda/wiki/como-criar-as-entradas-de-dns-na-zona-de-dns-hospedagem-de-sites-2
@@ -261,9 +246,8 @@ Configurar apontamento de DNS para subdomínio.,Como configurar subdominio na zo
 Como editar a Zona de DNS para adicionar subdomínio?,Como configurar subdominio na zona dns: https://www.locaweb.com.br/ajuda/wiki/como-criar-as-entradas-de-dns-na-zona-de-dns-hospedagem-de-sites-2
 Como apontar um subdomínio para um IP externo?,Como configurar subdominio na zona dns: https://www.locaweb.com.br/ajuda/wiki/como-criar-as-entradas-de-dns-na-zona-de-dns-hospedagem-de-sites-2
 Criar subdomínio para acessar meu blog ou loja.,Como configurar subdominio na zona dns: https://www.locaweb.com.br/ajuda/wiki/como-criar-as-entradas-de-dns-na-zona-de-dns-hospedagem-de-sites-2
-"Meu subdomínio não funciona, preciso configurar o DNS?",Como configurar subdominio na zona dns: https://www.locaweb.com.br/ajuda/wiki/como-criar-as-entradas-de-dns-na-zona-de-dns-hospedagem-de-sites-2
+Meu subdomínio não funciona preciso configurar o DNS?,Como configurar subdominio na zona dns: https://www.locaweb.com.br/ajuda/wiki/como-criar-as-entradas-de-dns-na-zona-de-dns-hospedagem-de-sites-2
 Adicionar registro de subdomínio na hospedagem.,Como configurar subdominio na zona dns: https://www.locaweb.com.br/ajuda/wiki/como-criar-as-entradas-de-dns-na-zona-de-dns-hospedagem-de-sites-2
-,
 "O que fazer quando o acesso ao site apresenta a mensagem ""o servidor DNS não está respondendo""?",Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
 "Apareceu o erro: ""O servidor DNS não está respondendo"".",Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
 "O navegador mostra ""DNS server not responding"".",Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
@@ -277,10 +261,9 @@ Falha de comunicação com o servidor de nomes.,Sobre o erro relacionado ao DNS:
 Erro de DNS ao tentar acessar o site.,Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
 Meu site não abre e diz que é problema de DNS.,Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
 Como limpar o cache de DNS?,Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
-"O site não carrega, fala que o DNS está com problemas.",Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
-"Minha internet funciona, mas esse site dá erro de DNS.",Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
+O site não carrega fala que o DNS está com problemas.,Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
+Minha internet funciona mas esse site dá erro de DNS.,Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
 Como resolver falha de DNS na conexão?,Sobre o erro relacionado ao DNS: https://www.locaweb.com.br/ajuda/wiki/servidor-dns-nao-esta-respondendo
-,
 Como instalar o WordPress na Hospedagem Locaweb?,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
 Como faço para instalar o WordPress na minha hospedagem?,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
 Passo a passo para instalação do WordPress.,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
@@ -292,14 +275,13 @@ Como usar o Instalador de Aplicativos para por o WordPress?,Como instalar o word
 Instalação fácil do WordPress.,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
 Tem como instalar o WordPress com 1 clique?,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
 Onde fica a ferramenta de instalar WordPress no painel?,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
-"Quero criar um blog em WordPress, como começo?",Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
+Quero criar um blog em WordPress como começo?,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
 Como iniciar um site WordPress no meu domínio?,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
 Configurar CMS WordPress na hospedagem.,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
 Preciso subir o WordPress ou tem pronto?,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
 Instalar WP.,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
 Setup do WordPress.,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
 Como baixar e instalar o WP no servidor?,Como instalar o wordpress: https://www.locaweb.com.br/ajuda/wiki/instalacao-facil-e-pratica-de-wordpress-hospedagem-de-sites/
-,
 O que é e como emitir o certificado Let's Encrypt (SSL) para meu site?,Emitir o SSL Let´s Encrypt: https://www.locaweb.com.br/ajuda/wiki/como-gerar-o-certificado-lets-encrypt-via-ssh-hospedagem-de-sites/
 Como instalo o certificado Let's Encrypt no meu site?,Emitir o SSL Let´s Encrypt: https://www.locaweb.com.br/ajuda/wiki/como-gerar-o-certificado-lets-encrypt-via-ssh-hospedagem-de-sites/
 Quero ativar o Let's Encrypt na Locaweb.,Emitir o SSL Let´s Encrypt: https://www.locaweb.com.br/ajuda/wiki/como-gerar-o-certificado-lets-encrypt-via-ssh-hospedagem-de-sites/
@@ -319,14 +301,13 @@ Renovação ou geração de certificado via terminal.,Emitir o SSL Let´s Encryp
 Habilitar o cadeado de segurança grátis.,Emitir o SSL Let´s Encrypt: https://www.locaweb.com.br/ajuda/wiki/como-gerar-o-certificado-lets-encrypt-via-ssh-hospedagem-de-sites/
 Preciso gerar um certificado para o meu domínio.,Emitir o SSL Let´s Encrypt: https://www.locaweb.com.br/ajuda/wiki/como-gerar-o-certificado-lets-encrypt-via-ssh-hospedagem-de-sites/
 Como criar o certificado de segurança para o site?,Emitir o SSL Let´s Encrypt: https://www.locaweb.com.br/ajuda/wiki/como-gerar-o-certificado-lets-encrypt-via-ssh-hospedagem-de-sites/
-,
 Como restaurar um backup da minha Hospedagem de Sites Locaweb?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
 Como restauro um backup da minha hospedagem?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
-"Apaguei arquivos sem querer, como recuperar?",Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
+Apaguei arquivos sem querer como recuperar?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
 Preciso fazer um restore do meu site.,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
 Quero voltar meu site para a versão de ontem.,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
 Como desfazer alterações restaurando uma cópia de segurança?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
-"O site quebrou, como volto o backup?",Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
+O site quebrou como volto o backup?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
 Como fazer uma cópia de segurança do meu site?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
 Como baixar o backup dos meus arquivos?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
 Quero salvar meu site no meu computador.,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
@@ -337,7 +318,6 @@ Recuperar pasta específica via ferramenta de backup.,Como fazer backup da Hospe
 Onde fica a ferramenta de Backup e Restore?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
 Como acessar os backups disponíveis no painel?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
 A Locaweb tem backup automático?,Como fazer backup da Hospedagem: https://www.locaweb.com.br/ajuda/wiki/backup-e-restore-de-servicos
-,
 O site caiu por excesso de tráfego. Como verificar e solucionar?,Sobre o erro 503: https://www.locaweb.com.br/ajuda/wiki/erro-503/
 O que significa o Erro 503?,Sobre o erro 503: https://www.locaweb.com.br/ajuda/wiki/erro-503/
 "Meu site está mostrando ""503 Service Temporarily Unavailable"".",Sobre o erro 503: https://www.locaweb.com.br/ajuda/wiki/erro-503/
@@ -357,10 +337,9 @@ Site lento e caindo por falta de recursos.,Sobre o erro 503: https://www.locaweb
 Como aumentar a capacidade do meu site para não cair?,Sobre o erro 503: https://www.locaweb.com.br/ajuda/wiki/erro-503/
 O que fazer quando o site dá erro 503?,Sobre o erro 503: https://www.locaweb.com.br/ajuda/wiki/erro-503/
 Preciso de mais recursos para o site não cair.,Sobre o erro 503: https://www.locaweb.com.br/ajuda/wiki/erro-503/
-,
 "O que significa quando meu domínio está ""congelado"" ou em ""redemption""?",Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
 O que significa domínio congelado?,Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
-"Meu domínio está com status ""Redemption"", o que é isso?",Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
+"Meu domínio está com status ""Redemption"" o que é isso?",Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
 Apareceu que o domínio está em Redemption Period.,Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
 O que quer dizer status congelado no Registro.br?,Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
 Status: Server Hold ou Client Hold (termos técnicos de congelamento).,Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
@@ -370,7 +349,7 @@ Como recuperar um domínio que foi congelado?,Status sobre o domínio congelado:
 É possível renovar um domínio em redemption?,Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
 Reativar domínio congelado por falta de pagamento.,Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
 Perdi meu domínio? Ele aparece como congelado.,Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
-"Esqueci de pagar e o domínio congelou, e agora?",Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
+Esqueci de pagar e o domínio congelou e agora?,Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
 Meu site saiu do ar e diz que o domínio expirou ou congelou.,Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
 O domínio está bloqueado para renovação.,Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
 "Status de ""Aguardando congelamento"" ou ""Inativo"".",Status sobre o domínio congelado: https://www.locaweb.com.br/ajuda/wiki/tudo-sobre-o-dominio-congelado-ou-redemption-registro-de-dominio/
