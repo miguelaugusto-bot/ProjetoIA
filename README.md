@@ -102,23 +102,27 @@ ProjetoIA_2025_Turma41/
 # Resultados
 
 <div align="center">
-<p>Balanceamento de Classes:</p>
+<h2>Balanceamento de Classes:</h2>
     <img src="reports/balanceamento_de_classes.png" width="80%">
-    <p> O intuito é verificar a quantidade de perguntas possuem a determinada resposta e distribuir da melhor forma a quantidade no momento da aprendizagem. </p>
+    <p><b> O intuito é verificar a quantidade de perguntas possuem a determinada resposta e distribuir da melhor forma a quantidade no momento da aprendizagem. </b></p>
+    <br><br>
 
-<p>Distribuição de Frases:</p>
+<h2>Distribuição de Frases:</h2>
     <img src="reports/distribuicao_de_frases.png" width="80%">
-    <p> Verificar a quantidade de palavras possuem ao todo nas perguntas. </p>
+    <p><b> Verificar a quantidade de palavras possuem ao todo nas perguntas. </b></p>
+    <br><br>
 
-<p>Acurácia e Perca:</p>
+<h2>Acurácia e Perca:</h2>
     <img src="reports/grafico_acuracia_perca.png" width="80%">
-    <p>São dois gráficos essenciais para a analise de aprendizagem da IA</p><br>
-    <p>Acurácia: Tem o intuito de sondar a precisão da IA dentro do treino e suas validações</p>
-    <p>Perca: Entender se a IA esta aprendendo durante o processo de treino (na situação aplicada, esta apenas decorando ainda)</p>
+    <p><b>São dois gráficos essenciais para a analise de aprendizagem da IA </b></p><br>
+    <p><b>Acurácia: Tem o intuito de sondar a precisão da IA dentro do treino e suas validações </b></p>
+    <p><b>Perca: Entender se a IA esta aprendendo durante o processo de treino (na situação aplicada, esta apenas decorando ainda)</b></p>
+    <br><br>
 
-<p>Matriz de Confusão:</p>  
+<h2>Matriz de Confusão:</h2>  
     <img src="reports/matriz_confusao.png" wwidth="45%">
-    <p>O gráfico de matrix de confusão é essencial para entender se a IA estava entendo a relação das perguntas e respostas (entretanto ainda permanece decorando)</p>
+    <p><b>O gráfico de matrix de confusão é essencial para entender se a IA estava entendo a relação das perguntas e respostas (entretanto ainda permanece decorando)</b></p>
+    <br><br>
 
 <p>Ainda possui muitos residuos e ruidos a serem aplicados que precisam ser corrigidos e analisado, contudo, esse processo será uma feature</p>
 </div>
@@ -126,10 +130,10 @@ ProjetoIA_2025_Turma41/
 
 # Créditos
 
-**Autores:**
-Christian Angelo - 2225106566
-Denis Dias dos Santos - 2225105349
-Miguel Augusto Stanichesqui Torres Nunes - 2225103506
-Nathan Moura Vieira - 2225102755
-Vinicius Amaral dos Santos - 2224104454
-Vinicius Barauna - 2225102634
+**Autores:**  
+Christian Angelo - 2225106566  
+Denis Dias dos Santos - 2225105349  
+Miguel Augusto Stanichesqui Torres Nunes - 2225103506  
+Nathan Moura Vieira - 2225102755  
+Vinicius Amaral dos Santos - 2224104454  
+Vinicius Barauna - 2225102634  
