@@ -31,8 +31,6 @@ A proposta do projeto é o desenvolvimento de uma Inteligência Artificial capaz
 **Decisões Técnicas:**  
 
 
-
----
 # Como Instalar:
 
 ## Requisitos:
@@ -57,7 +55,8 @@ Para o projeto é necessario efetuar a instalação:
 ```bash
     pip install -r requirements.txt
 ```
----
+
+
 # Estrutura do Projeto:
 
 ```text
@@ -91,27 +90,46 @@ ProjetoIA_2025_Turma41/
 ├── setup.py               # Script para baixar o FastText e configurar pastas  
 └── README.md              # Documentação do projeto  
 ```
----
+
 
 # Dados Utilizados
+ 
+ - **Origem**: Todos os dados utilizados dentro do banco de dados vieram da [registro.br](https://registro.br/ajuda/) e [Locaweb](https://www.locaweb.com.br/ajuda/)
+ - **Esquema**: A base de dados é separada por duas colunas, sendo as perguntas(frases frequentes dos usuario) e respostas(retornos objetivos e diretos de acordo com a duvida indicada).
+ - **Cuidados éticos/privacidade**: Não possuimos nenhum direito aos dados utilizados e isso é um projeto open-source intuitivo e educacional para a Uninove.
 
----
 
 # Resultados
 
 <div align="center">
 <p>Balanceamento de Classes:</p>
     <img src="reports/balanceamento_de_classes.png" width="80%">
+    <p> O intuito é verificar a quantidade de perguntas possuem a determinada resposta e distribuir da melhor forma a quantidade no momento da aprendizagem. </p>
 
 <p>Distribuição de Frases:</p>
     <img src="reports/distribuicao_de_frases.png" width="80%">
+    <p> Verificar a quantidade de palavras possuem ao todo nas perguntas. </p>
 
 <p>Acurácia e Perca:</p>
     <img src="reports/grafico_acuracia_perca.png" width="80%">
+    <p>São dois gráficos essenciais para a analise de aprendizagem da IA</p><br>
+    <p>Acurácia: Tem o intuito de sondar a precisão da IA dentro do treino e suas validações</p>
+    <p>Perca: Entender se a IA esta aprendendo durante o processo de treino (na situação aplicada, esta apenas decorando ainda)</p>
 
 <p>Matriz de Confusão:</p>  
     <img src="reports/matriz_confusao.png" wwidth="45%">
+    <p>O gráfico de matrix de confusão é essencial para entender se a IA estava entendo a relação das perguntas e respostas (entretanto ainda permanece decorando)</p>
+
+<p>Ainda possui muitos residuos e ruidos a serem aplicados que precisam ser corrigidos e analisado, contudo, esse processo será uma feature</p>
 </div>
 
----
 
+# Créditos
+
+**Autores:**
+Christian Angelo - 2225106566
+Denis Dias dos Santos - 2225105349
+Miguel Augusto Stanichesqui Torres Nunes - 2225103506
+Nathan Moura Vieira - 2225102755
+Vinicius Amaral dos Santos - 2224104454
+Vinicius Barauna - 2225102634
