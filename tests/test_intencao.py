@@ -6,6 +6,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 from src.bot import resposta
 
+#pytest
 cenarios_de_teste = [
     
     # Teste de Iniciação
@@ -22,7 +23,7 @@ cenarios_de_teste = [
     
     # Teste de Segurança (mais para falhas)
     ("receita de bolo de cenoura", "INDECISO"),
-    ("sdjkfhsdjkfh", "não entendi") 
+    ("sdjkfhsdjvsdkfh", "não entendi") 
 ]
 
 @pytest.mark.parametrize("pergunta, trecho_esperado", cenarios_de_teste)
