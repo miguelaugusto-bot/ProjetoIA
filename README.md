@@ -101,13 +101,13 @@ ProjetoIA_2025_Turma41/
 
 <div align="center">
 <p>Balanceamento de Classes:</p>
-    <img src="reports/balanceamento_de_classes.png" width="45%">
+    <img src="reports/balanceamento_de_classes.png" width="80%">
 
 <p>Distribuição de Frases:</p>
-    <img src="reports/distribuicao_de_frases.png" width="45%">
+    <img src="reports/distribuicao_de_frases.png" width="80%">
 
 <p>Acurácia e Perca:</p>
-    <img src="reports/grafico_acuracia_perca.png" width="45%">
+    <img src="reports/grafico_acuracia_perca.png" width="80%">
 
 <p>Matriz de Confusão:</p>  
     <img src="reports/matriz_confusao.png" wwidth="45%">
