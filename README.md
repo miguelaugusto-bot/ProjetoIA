@@ -91,7 +91,7 @@ ProjetoIA_2025_Turma41/
 # Resultados
 
 **Balanceamento de Classes:**  
-![balanceamento_de_classes](/reports/balanceamento_de_classes.png)  
+![balanceamento_de_classes](/reports/balanceamento_de_classes.jpeg)  
 
 **Distribuição de Frases:**  
 ![distribuicao_de_frases](/reports/distribuicao_de_frases.png)  
