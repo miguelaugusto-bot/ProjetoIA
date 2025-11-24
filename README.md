@@ -27,8 +27,10 @@
 
 **Descrição:**  
 A proposta do projeto é o desenvolvimento de uma Inteligência Artificial capaz de auxiliar empresas e startups em duvidas relacionadas a produtos de hospedagem, email e dominios, sanando as principais perguntas antes de qualquer atendimento helpdesk, como se fosse um pré atendimento para estabelecer possiveis soluções sem a necessidade de um atendente.  
+***>Aviso:* Atualmente o projeto esta em estado de prototipo, com falhas e diversos erros, pois a base é inferior da esperada e ainda esta decorando ao invés de aprendendo.**
 
 **Decisões Técnicas:**  
+Nossa IA é um chatbot em LSTM para compreender e entender as duvidas do cliente independente da forma que indique, para trazer respostas pré-definidas pelo sistema interno afim de agilizar o processo de sondagem, retorno e possivel solução da pergunta ou problema apresentado relacionado a dominio, hospedagem e e-mail profissional na internet. Inicialmente as respostas também deveriam ser definidas com a IA de acordo com regras e uma base em portugues, contudo, se tornou complexo aplicar.  
 
 
 # Como Instalar:
