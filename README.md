@@ -1,3 +1,12 @@
+<div align="center">
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![FastText](https://img.shields.io/badge/FastText-Support-blue?style=for-the-badge)
+
+</div>
+
 # Projeto de Inteligência Artificial (HelpDesk ChatIA)
 
 **Membros:**  
