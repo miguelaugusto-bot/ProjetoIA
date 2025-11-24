@@ -47,6 +47,7 @@ Para o projeto é necessario efetuar a instalação:
 ---
 # Estrutura do Projeto:
 
+```text
 ProjetoIA_2025_Turma41/  
 ├── data/                  **# Dados brutos e externos**  
 │   ├── dataset.csv        # Perguntas e Respostas para treino  
@@ -76,7 +77,7 @@ ProjetoIA_2025_Turma41/
 ├── requirements.txt       # Lista de bibliotecas necessárias  
 ├── setup.py               # Script para baixar o FastText e configurar pastas  
 └── README.md              # Documentação do projeto  
-
+```
 ---
 
 
