@@ -17,7 +17,11 @@
     problema → dados → IA → execução ao vivo → resultados → conclusão.  
 
 **Descrição:**  
-A proposta do projeto é o desenvolvimento de uma Inteligência Artificial capaz de auxiliar empresas e startups em duvidas relacionadas a produtos de hospedagem, email e dominios, sanando as principais perguntas antes de qualquer atendimento helpdesk, como se fosse um pré atendimento para estabelecer possiveis soluções sem a necessidade de um atendente.
+A proposta do projeto é o desenvolvimento de uma Inteligência Artificial capaz de auxiliar empresas e startups em duvidas relacionadas a produtos de hospedagem, email e dominios, sanando as principais perguntas antes de qualquer atendimento helpdesk, como se fosse um pré atendimento para estabelecer possiveis soluções sem a necessidade de um atendente.  
+
+**Decisões Técnicas:**  
+
+
 
 ---
 # Como Instalar:
@@ -49,29 +53,29 @@ Para o projeto é necessario efetuar a instalação:
 
 ```text
 ProjetoIA_2025_Turma41/  
-├── data/                  **# Dados brutos e externos**  
+├── data/                  # Dados brutos e externos 
 │   ├── dataset.csv        # Perguntas e Respostas para treino  
 │   └── cc.pt.300.vec.gz   # Vetores do FastText (baixado pelo setup.py ou pelo treinamento-lstm.ipynb)  
 │  
-├── models/                **# Artefatos treinados (O "Cérebro")**  
+├── models/                # Artefatos treinados (O "Cérebro") 
 │   ├── chatbot_lstm_final.keras  # O modelo de Deep Learning salvo  
 │   ├── tokenizer.pkl      # Dicionário de palavras  
 │   └── label_encoder.pkl  # Tradutor de respostas (IDs -> Texto)  
 │  
-├── notebooks/             **# Área de Experimentação (Jupyter)**  
+├── notebooks/             # Área de Experimentação (Jupyter) 
 │   ├── treinamento-lstm.ipynb  # Notebook principal de treino  
 │   └── exploracao.ipynb        # Notebook para testes manuais rápidos  
 │  
-├── reports/               **# Métricas e Evidências do Treino**  
+├── reports/               # Métricas e Evidências do Treino
 │   ├── grafico_acuracia_perca.png          # Mostra que a IA aprendeu (Loss caindo)  
 │   ├── balanceamento_classes.png           # Distribuição das perguntas por tema  
 │   ├── matriz_confusao.png                 # Onde a IA acertou vs. onde errou  
 │   └── balanceamento_de_classes.png        # Precisão detalhada por assunto  
 │  
-├── src/                   **# Código Fonte (Produção)**  
+├── src/                   # Código Fonte (Produção)
 │   └── bot.py             # Lógica limpa do Chatbot para importação  
 │  
-├── tests/                 **# Testes Automatizados**  
+├── tests/                 # Testes Automatizados
 │   └── test_intencoes.py  # Script de teste (pytest)  
 │  
 ├── requirements.txt       # Lista de bibliotecas necessárias  
@@ -80,6 +84,23 @@ ProjetoIA_2025_Turma41/
 ```
 ---
 
-
 # Dados Utilizados
+
+---
+
+# Resultados
+
+**Balanceamento de Classes:**  
+![balanceamento_de_classes](/reports/balanceamento_de_classes.png)  
+
+**Distribuição de Frases:**  
+![distribuicao_de_frases](/reports/distribuicao_de_frases.png)  
+
+**Acurácia e Perca:**  
+![grafico_acuracia_perca](/reports/grafico_acuracia_perca.png)  
+
+**Matriz de Confusão:**  
+![matriz_confusao](/reports/matriz_confusao.png)  
+
+---
 
