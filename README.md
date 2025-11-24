@@ -99,17 +99,19 @@ ProjetoIA_2025_Turma41/
 
 # Resultados
 
-**Balanceamento de Classes:**  
-<img src="reports/balanceamento_de_classes.png" width="100px">
+<div align="center">
+<p>Balanceamento de Classes:</p>
+    <img src="reports/balanceamento_de_classes.png" width="45%">
 
-**Distribuição de Frases:**  
-<img src="reports/distribuicao_de_frases.png" width="100px">
+<p>Distribuição de Frases:</p>
+    <img src="reports/distribuicao_de_frases.png" width="45%">
 
-**Acurácia e Perca:**  
-<img src="reports/grafico_acuracia_perca.png" width="100px">
+<p>Acurácia e Perca:</p>
+    <img src="reports/grafico_acuracia_perca.png" width="45%">
 
-**Matriz de Confusão:**  
-<img src="reports/matriz_confusao.png" width="100px">
+<p>Matriz de Confusão:</p>  
+    <img src="reports/matriz_confusao.png" wwidth="45%">
+</div>
 
 ---
 
