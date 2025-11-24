@@ -113,3 +113,5 @@ ProjetoIA_2025_Turma41/
 
 ---
 
+![matriz_confusao](/reports/matriz_confusao.png)
+
