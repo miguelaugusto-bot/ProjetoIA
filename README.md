@@ -53,6 +53,11 @@ Para o projeto é necessario efetuar a instalação:
     source .venv/bin/activate
 ```
 
+### Configuração de Setup
+```bash
+    python setup.py
+```
+
 ### Instalar Dependências
 ```bash
     pip install -r requirements.txt
