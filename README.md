@@ -37,31 +37,87 @@ Nossa IA é um chatbot em LSTM para compreender e entender as duvidas do cliente
 
 ## Requisitos:
 Para o projeto é necessario efetuar a instalação:  
-**Versão do Python:** Requer Python 3.13.x ou superior. (versões anteriores funcionam, mas pode apresentar erros)  
+**Versão do Python:** Requer Python 3.12.x ou superior. [python 3.12.10](https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe)  
 **Ambiente Virtual:** (Opcional, mas recomendado como o google colab)  
 
+## Instalar o python
+É indicado que seja efetuado a instalação do python dentro de sua maquina ou ambiente virtual.
+No site oficial: https://www.python.org
+
+Quando estiver pronto, precisa apenas efetuar o seguinte comando:
+```bash
+    python --version
+```
+ou
+```bash
+    py --version
+```
+
+Obs.: Geralmente pode apresentar erro no windows 10 e 11, pois o Aliases de execução do aplicativo esta ligado e precisa desligar.
+
+## Git Clone
+Após a instalação do python, é necessário uma copia do projeto em sua maquina, para isso pode simplesmente efetuar o download do arquivo .zip ou efetuar os comando do git caso tenha instalado.
+
+### HTTPS
+```bash
+    git clone https://github.com/miguelaugusto-bot/ProjetoIA.git
+```
+
+### SSH
+```bash
+    git clone git@github.com:miguelaugusto-bot/ProjetoIA.git
+```
+
 ## Criar o ambiente virtual
-### Windows
+Etapa essencial para isolar as biblioteca de python do projeto, para não misturar com as que possui em sua máquina.  
+**Windows**
 ```bash
     python -m venv .venv
-    .venv\Scripts\activate
+
+    ou
+
+    py -m venv .venv
 ```
 
-### Linux / Mac
+**Linux / Mac**
 ```bash
     python3 -m venv .venv
-    source .venv/bin/activate
+```
+## Ativação
+
+**Windows**
+```bash
+    .venv\Scripts\activate
+
+    ou
+
+    source .venv\Scripts\activate
 ```
 
-### Configuração de Setup
+**Linux / Mac**
+```bash
+    source .venv/bin/activate
+```
+## Instalar Dependências
+Ira efetuar a instalação de todas as bibliotecas que iremos utilizar dentro do projeto.
+```bash
+    pip install -r requirements.txt
+```
+
+## Configuração de Setup
+Por fim configurar as pastas ausentes e arquivos que não são capaz de baixar pelo processo habitual do git.
 ```bash
     python setup.py
 ```
 
-### Instalar Dependências
+## Teste
+Testar o ambiente inicialmente por python, para verificar se esta tudo funcionando de acordo com o esperado.
 ```bash
-    pip install -r requirements.txt
+    pytest
 ```
+
+## Observações Gerais
+Toda a parte relacionada diretamente com o jupyter ainda esta sendo testada, e o processo de instalação precisa ser manual, inclusive indicado fortemente a usar um ambiente virtual ou fazer acesso via vscode para a instalação automatica das extensões relacionadas ao jupyter.
 
 
 # Estrutura do Projeto:
