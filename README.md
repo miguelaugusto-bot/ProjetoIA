@@ -87,11 +87,11 @@ Etapa essencial para isolar as biblioteca de python do projeto, para não mistur
 
 **Windows**
 ```bash
-    .venv\Scripts\activate
+    .venv/Scripts/activate
 
     ou
 
-    source .venv\Scripts\activate
+    source .venv/Scripts/activate
 ```
 
 **Linux / Mac**
