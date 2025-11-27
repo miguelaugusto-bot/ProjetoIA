@@ -68,7 +68,7 @@ Após a instalação do python, é necessário uma copia do projeto em sua maqui
 ```
 
 ## Criar o ambiente virtual
-Etapa essencial para isolar as biblioteca de python do projeto, para não misturar com as que possui em sua máquina.  
+Etapa essencial para isolar as biblioteca de python do projeto, para não misturar com as que possui em sua máquina.
 **Windows**
 ```bash
     python -m venv .venv
@@ -83,7 +83,7 @@ Etapa essencial para isolar as biblioteca de python do projeto, para não mistur
     python3 -m venv .venv
 ```
 ## Ativação
-
+Esse processo é tanto para ativar o ambiente virtual e fazer uso por meio dele, quanto fazer acesso quando necessario.
 **Windows**
 ```bash
     .venv/Scripts/activate
