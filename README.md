@@ -22,7 +22,8 @@
 
 **Apresentação:**  
     Link para a apresentação do projeto de IA:  
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/NFU_Q7w7TkM?si=TP_c4aLQB7Z90xNG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/video-id" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     problema → dados → IA → execução ao vivo → resultados → conclusão.  
 
 **Descrição:**  
