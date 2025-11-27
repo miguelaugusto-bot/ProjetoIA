@@ -21,10 +21,8 @@
 | 2225102634 | Vinicius Barauna | Avaliação & Gráficos / Modelagem de Dados |
 
 **Apresentação:**  
-    Link para a apresentação do projeto de IA:  
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/video-id" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-    problema → dados → IA → execução ao vivo → resultados → conclusão.  
+    Apresentação do Projeto: https://youtu.be/NFU_Q7w7TkM?si=pjYI95GxHFnM_7Fl  
+    Resumo Técnico: https://youtu.be/v72bAFnZU5s?si=-A3AN8YTB_5MgXSe  
 
 **Descrição:**  
 A proposta do projeto é o desenvolvimento de uma Inteligência Artificial capaz de auxiliar empresas e startups em duvidas relacionadas a produtos de hospedagem, email e dominios, sanando as principais perguntas antes de qualquer atendimento helpdesk, como se fosse um pré atendimento para estabelecer possiveis soluções sem a necessidade de um atendente.  
